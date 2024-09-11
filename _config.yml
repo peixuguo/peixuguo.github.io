@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "photo.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Peixu Guo"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Hong Kong SAR"
+  employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
   email            : "peixu.guo@polyu.edu.hk; peixu.guo@outlook.com" 
 
