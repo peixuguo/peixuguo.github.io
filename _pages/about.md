@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
+About Me
 ======
 Dr. Peixu Guo obtained BEng and PhD degrees from Beihang University in China, respectively, graduating with honors such as National Scholarship and Outstanding Graduates Award. He joined Department of Aeronautical and Aviation Engineering (AAE), The Hong Kong Polytechnic University as a Postdoctoral Fellow in 2022. He will join AAE as a Research Assistant Professor starting from October, 2024. His main research areas include stability and laminar-turbulent transition of high-speed flows. 
 
