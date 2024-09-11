@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+About me
+======
 Dr. Peixu Guo obtained BEng and PhD degrees from Beihang University in China, respectively, graduating with honors such as National Scholarship and Outstanding Graduates Award. He joined Department of Aeronautical and Aviation Engineering (AAE), The Hong Kong Polytechnic University as a Postdoctoral Fellow in 2022. He will join AAE as a Research Assistant Professor starting from October, 2024. His main research areas include stability and laminar-turbulent transition of high-speed flows. 
 
 Dr. Guo has been devoted to theoretical and computational studies on linear instability and nonlinear breakdown mechanisms of wall-bounded flows. He has also made contributions to the transition control, transition modelling and adjoint-based sensitivity analysis of hypersonic flows. Three of his recent representative contributions are: 1) to clarify the physical mechanism of transition reversal with an agreement between DNS and experiment, 2) to report a new breakdown scenario contributed by nonlinear interactions between first and second modes, and 3) to establish a unified theory for energy growth of boundary layer instabilities. 
