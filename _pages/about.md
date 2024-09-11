@@ -43,7 +43,7 @@ Selected Publications
 15.	Long, T., Guo, P., Zhao, R., Wen, C. Y., & Ji, F. (2023) Energy growth of vortical, acoustic, and entropic components of the second-mode instability in the hypersonic boundary layer. Physics of Fluids, 35(5): 054104.
 16.	Liu, X., Ma, D., Yang, M., Xia, X., & Guo, P. (2021) Modified block A* planning method for hybrid-driven underwater gliders. IEEE Journal of Oceanic Engineering, 47(1): 20–31.
 
-Arxiv Preprint Communications
+arXiv Preprint Communications
 ======
 1. Guo, P., Hao, J., & Wen, C. Y. Transition reversal over a blunt plate at Mach 5. Under review by Journal of Fluid Mechanics. (arXiv identifier: 2407.21629)
 2. Guo, P., Hao, J., & Wen, C. Y. Understanding the instability-wave selectivity of hypersonic compression ramp laminar flow. Under review by AIAA Journal. (arXiv identifier: 2404.11400)
