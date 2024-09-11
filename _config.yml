@@ -12,7 +12,7 @@ title                    : "Peixu Guo / Research Assistant Professor"
 title_separator          : "-"
 name                     : &name "Peixu Guo"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://peixuguo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
