@@ -13,7 +13,7 @@ His publications include over ten journal papers in J. Fluid Mech., Phys. Fluids
 
 Recruitment
 ======
-Dr. Guo is currently looking for research assistants and PhD students to work on stability and transition, high-speed aerodynamics, direct numerical simulation, etc. Please send CV to him by email.
+Dr. Guo is currently looking for research assistants and PhD students to work on stability and transition, high-speed aerodynamics, direct numerical simulation, etc. Please send CV to peixu.guo@polyu.edu.hk.
 
 Research Interest
 ======
