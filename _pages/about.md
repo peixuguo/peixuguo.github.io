@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Peixu Guo obtained BEng and PhD degrees from Beihang University in China, respectively, graduating with honors such as National Scholarship and Outstanding Graduates Award. He joined Department of Aeronautical and Aviation Engineering (AAE), The Hong Kong Polytechnic University as a Postdoctoral Fellow in 2022. Dr. Guo will join AAE as a Research Assistant Professor starting from October, 2024. His main research areas include stability and laminar-turbulent transition of high-speed flows. He has been devoted to theoretical and computational studies on linear instability and nonlinear breakdown mechanisms of wall-bounded flows. He has also made contributions to the transition control, transition modelling and adjoint-based sensitivity analysis of hypersonic flows. Two of his recent representative contributions are: 1) to clarify the physical mechanism of transition reversal with an agreement between DNS and experiment, 2) to report a new breakdown scenario contributed by nonlinear interaction between first and second modes. 
+Dr. Peixu Guo obtained BEng and PhD degrees from Beihang University in China, respectively, graduating with honors such as National Scholarship and Outstanding Graduates Award. He joined Department of Aeronautical and Aviation Engineering (AAE), The Hong Kong Polytechnic University as a Postdoctoral Fellow in 2022. Dr. Guo will join AAE as a Research Assistant Professor starting from October, 2024. His main research areas include stability and laminar-turbulent transition of high-speed flows. He has been devoted to theoretical and computational studies on linear instability and nonlinear breakdown mechanisms of wall-bounded flows. He has also made contributions to the transition control, transition modelling and adjoint-based sensitivity analysis of hypersonic flows. Two of his recent representative contributions are: 1) to clarify the physical mechanism of transition reversal with an agreement between DNS and experiment, 2) to report a new breakdown scenario contributed by nonlinear interactions between first and second modes. 
 
 His publications include over ten journal papers in J. Fluid Mech., Phys. Fluids, AIAA J., etc. as the first/corresponding author. He also serves as project co-PI collaborating with the Academy of Aerospace Propulsion Technology, co-I of GRF project, co-supervisor of PhD student, and reviewer for J. Fluid Mech., etc. With regard to student supervision, several journal papers have been published on the top-tier journals including J. Fluid Mech., where the PhD student is the first author and Dr. Guo is the second and corresponding author. Dr. Guo is searching for academic collaboration with young scientists and students.
 
@@ -15,7 +15,7 @@ Recruitment
 ======
 Dr. Guo is currently looking for research assistants and PhD students to work on stability and transition, high-speed aerodynamics, direct numerical simulation, etc. Please send CV to him by email.
 
-Selected Research Interest
+Research Interest
 ======
 1. Transition reversal on blunt bodies
 2. Direct numerical simulation on breakdown of hypersonic boundary layer
