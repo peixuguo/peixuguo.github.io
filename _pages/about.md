@@ -43,7 +43,7 @@ Selected Publications
 11.	Guo, P., Gao, Z., Jiang, C., Lee, C. H. (2020) Linear stability analysis on the most unstable frequencies of supersonic flat-plate boundary layers. Computers & Fluids, 197: 104394. 
 12.	Guo, P., Gao, Z., Zhang, Z., Jiang, C., & Lee, C. H. (2019) Local-variable-based model for hypersonic boundary layer transition. AIAA Journal, 57(6): 2372–2383.
 13.	Guo, P., Gao, Z., Wu, Z., Liu, H., Jiang, C., & Lee, C. H. (2019) Investigations on the accurate prediction of supersonic shear layers for detached eddy simulation. Aerospace Science and Technology, 89: 46–57. 
-14.	Shi F., Guo, P., Liu, H., & Wang, T. (2024) Effect of vibrational excitation on vorticity amplification and transportation in shock/isotropic turbulence interaction: a numerical investigation. Physics of Fluids, accepted.
+14.	Shi F., Guo, P., Liu, H., & Wang, T. (2024) Effect of vibrational excitation on vorticity amplification and transportation in shock/isotropic turbulence interaction: a numerical investigation. Physics of Fluids, 36: 085140.
 15.	Long, T., Guo, P., Zhao, R., Wen, C. Y., & Ji, F. (2023) Energy growth of vortical, acoustic, and entropic components of the second-mode instability in the hypersonic boundary layer. Physics of Fluids, 35(5): 054104.
 16.	Liu, X., Ma, D., Yang, M., Xia, X., & Guo, P. (2021) Modified block A* planning method for hybrid-driven underwater gliders. IEEE Journal of Oceanic Engineering, 47(1): 20–31.
 
