@@ -23,20 +23,13 @@ author:
   # Biographic information
   avatar           : "photo.jpg"
   name             : "Peixu Guo"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong SAR"
   employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
   email            : "peixu.guo@polyu.edu.hk; peixu.guo@outlook.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6952-023X"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Peixu-Guo"
 
   # Repositories and software development
