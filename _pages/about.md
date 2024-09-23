@@ -28,6 +28,10 @@ Research Interest
 5. Control of boundary layer instability by porous coatings
 6. Sensitivity and modeling of boundary layer stability and transition
 
+Teaching
+======
+Compressible Aerodynamics (AAE4111), 2024/2025 second semester.
+
 Selected Publications
 ======
 1.	Guo, P., Hao, J., & Wen, C. Y. (2023) Interaction and breakdown induced by multiple optimal disturbances in hypersonic boundary layer. Journal of Fluid Mechanics, 974: A50. 
