@@ -41,15 +41,16 @@ Selected Publications
 5.	Guo, P., Shi, F., Gao, Z., Jiang, C., Lee, C. H., & Wen, C. Y. (2022) Heat transfer and behavior of the Reynolds stress in Mach 6 boundary layer transition induced by first-mode oblique waves. Physics of Fluids, 34(10): 104116. (Editor’s pick) 
 6.	Guo, P., Shi, F., Gao, Z., Jiang, C., Lee, C. H., & Wen, C. Y. (2022) Sensitivity analysis on supersonic-boundary-layer stability: Parametric influence, optimization, and inverse design. Physics of Fluids, 34(10): 104113. 
 7.	Chen, Y., Ma, T., Guo, P.*, Hao, J. & Wen, C. Y. (2024) Optimal disturbances and growth patterns in hypersonic blunt-wedge flow, Chinese Journal of Aeronautics, accepted. 
-8.	Hao, J., Cao, S., Guo, P., & Wen, C-Y. (2023) Response of hypersonic compression corner flow to upstream disturbances. Journal of Fluid Mechanics, 964: A25. 
-9.	Cao, S., Hao, J., Guo, P., Wen, C-Y., & Klioutchnikov I. (2023) Stability of hypersonic flow over a curved compression ramp. Journal of Fluid Mechanics, 957: A8. 
-10.	Guo, P., Gao, Z., Jiang, C., & Lee, C. H. (2021) Sensitivity analysis on supersonic-boundary-layer stability subject to perturbation of flow parameters. Physics of Fluids, 33: 084111. 
-11.	Guo, P., Gao, Z., Jiang, C., Lee, C. H. (2020) Linear stability analysis on the most unstable frequencies of supersonic flat-plate boundary layers. Computers & Fluids, 197: 104394. 
-12.	Guo, P., Gao, Z., Zhang, Z., Jiang, C., & Lee, C. H. (2019) Local-variable-based model for hypersonic boundary layer transition. AIAA Journal, 57(6): 2372–2383.
-13.	Guo, P., Gao, Z., Wu, Z., Liu, H., Jiang, C., & Lee, C. H. (2019) Investigations on the accurate prediction of supersonic shear layers for detached eddy simulation. Aerospace Science and Technology, 89: 46–57. 
-14.	Shi F., Guo, P., Liu, H., & Wang, T. (2024) Effect of vibrational excitation on vorticity amplification and transportation in shock/isotropic turbulence interaction: a numerical investigation. Physics of Fluids, 36: 085140.
-15.	Long, T., Guo, P., Zhao, R., Wen, C. Y., & Ji, F. (2023) Energy growth of vortical, acoustic, and entropic components of the second-mode instability in the hypersonic boundary layer. Physics of Fluids, 35(5): 054104.
-16.	Liu, X., Ma, D., Yang, M., Xia, X., & Guo, P. (2021) Modified block A* planning method for hybrid-driven underwater gliders. IEEE Journal of Oceanic Engineering, 47(1): 20–31.
+8.	Hao, J., Cao, S., Guo, P., & Wen, C-Y. (2023) Response of hypersonic compression corner flow to upstream disturbances. Journal of Fluid Mechanics, 964: A25.
+9.	Cao, S., Hao, J., & Guo, P. (2024) Transition to turbulence in hypersonic flow over a compression ramp due to upstream forcing. Journal of Fluid Mechanics, accepted.
+10.	Cao, S., Hao, J., Guo, P., Wen, C-Y., & Klioutchnikov I. (2023) Stability of hypersonic flow over a curved compression ramp. Journal of Fluid Mechanics, 957: A8. 
+11.	Guo, P., Gao, Z., Jiang, C., & Lee, C. H. (2021) Sensitivity analysis on supersonic-boundary-layer stability subject to perturbation of flow parameters. Physics of Fluids, 33: 084111. 
+12.	Guo, P., Gao, Z., Jiang, C., Lee, C. H. (2020) Linear stability analysis on the most unstable frequencies of supersonic flat-plate boundary layers. Computers & Fluids, 197: 104394. 
+13.	Guo, P., Gao, Z., Zhang, Z., Jiang, C., & Lee, C. H. (2019) Local-variable-based model for hypersonic boundary layer transition. AIAA Journal, 57(6): 2372–2383.
+14.	Guo, P., Gao, Z., Wu, Z., Liu, H., Jiang, C., & Lee, C. H. (2019) Investigations on the accurate prediction of supersonic shear layers for detached eddy simulation. Aerospace Science and Technology, 89: 46–57. 
+15.	Shi F., Guo, P., Liu, H., & Wang, T. (2024) Effect of vibrational excitation on vorticity amplification and transportation in shock/isotropic turbulence interaction: a numerical investigation. Physics of Fluids, 36: 085140.
+16.	Long, T., Guo, P., Zhao, R., Wen, C. Y., & Ji, F. (2023) Energy growth of vortical, acoustic, and entropic components of the second-mode instability in the hypersonic boundary layer. Physics of Fluids, 35(5): 054104.
+17.	Liu, X., Ma, D., Yang, M., Xia, X., & Guo, P. (2021) Modified block A* planning method for hybrid-driven underwater gliders. IEEE Journal of Oceanic Engineering, 47(1): 20–31.
 
 arXiv Preprint Communications
 ======
