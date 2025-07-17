@@ -40,22 +40,22 @@ Selected Publications
 2.	Guo, P., Hao, J., & Wen, C. Y. (2023) Interaction and breakdown induced by multiple optimal disturbances in hypersonic boundary layer. Journal of Fluid Mechanics, 974: A50. 
 3.	Chen, Y., Guo, P.*, & Wen, C. Y. (2023) A unified explanation of energy growth sources for unstable modes in flat-plate boundary layers. Journal of Fluid Mechanics, 972: A5.
 4.	Guo, P., Hao, J., & Wen, C. Y. (2025) Understanding the instability-wave selectivity of hypersonic compression ramp laminar flow. AIAA Journal, 63(7): 2580–2593.
-5.	Guo, P., Liu, X., Zhao, R., Hao, J., & Wen, C. Y. (2023) Effect of acoustic metasurface on hypersonic-boundary-layer wave packet. Physics of Fluids, 35(9): 094110. 
-6.	Chen, Y., Guo, P.*, & Wen, C. Y. (2023) Consistent energy-based framework of amplification mechanisms for the second mode in hypersonic boundary layers. Physics of Fluids, 35(12): 124107.
-7.	Guo, P., Shi, F., Gao, Z., Jiang, C., Lee, C. H., & Wen, C. Y. (2022) Heat transfer and behavior of the Reynolds stress in Mach 6 boundary layer transition induced by first-mode oblique waves. Physics of Fluids, 34(10): 104116. (Editor’s pick) 
-8.	Guo, P., Shi, F., Gao, Z., Jiang, C., Lee, C. H., & Wen, C. Y. (2022) Sensitivity analysis on supersonic-boundary-layer stability: Parametric influence, optimization, and inverse design. Physics of Fluids, 34(10): 104113. 
-9.	Chen, Y., Ma, T., Guo, P.*, Hao, J. & Wen, C. Y. (2024) Optimal disturbances and growth patterns in hypersonic blunt-wedge flow, Chinese Journal of Aeronautics, 38(7): 103461. (Featured article) 
-10.	Hao, J., Cao, S., Guo, P., & Wen, C-Y. (2023) Response of hypersonic compression corner flow to upstream disturbances. Journal of Fluid Mechanics, 964: A25.
-11.	Cao, S., Hao, J., & Guo, P. (2024) Transition to turbulence in hypersonic flow over a compression ramp due to upstream forcing. Journal of Fluid Mechanics, 999: A37.
-12.	Cao, S., Hao, J., Guo, P., Wen, C-Y., & Klioutchnikov I. (2023) Stability of hypersonic flow over a curved compression ramp. Journal of Fluid Mechanics, 957: A8. 
-13.	Guo, P., Gao, Z., Jiang, C., & Lee, C. H. (2021) Sensitivity analysis on supersonic-boundary-layer stability subject to perturbation of flow parameters. Physics of Fluids, 33: 084111. 
-14.	Guo, P., Gao, Z., Jiang, C., Lee, C. H. (2020) Linear stability analysis on the most unstable frequencies of supersonic flat-plate boundary layers. Computers & Fluids, 197: 104394. 
-15.	Guo, P., Gao, Z., Zhang, Z., Jiang, C., & Lee, C. H. (2019) Local-variable-based model for hypersonic boundary layer transition. AIAA Journal, 57(6): 2372–2383.
-16.	Guo, P., Gao, Z., Wu, Z., Liu, H., Jiang, C., & Lee, C. H. (2019) Investigations on the accurate prediction of supersonic shear layers for detached eddy simulation. Aerospace Science and Technology, 89: 46–57. 
+5.  Guo, P., Shi, F., Gao, Z., Jiang, C., Lee, C. H., & Wen, C. Y. (2022) Heat transfer and behavior of the Reynolds stress in Mach 6 boundary layer transition induced by first-mode oblique waves. Physics of Fluids, 34(10): 104116. (Editor’s pick)
+6.  Guo, P., Gao, Z., Jiang, C., & Lee, C. H. (2021) Sensitivity analysis on supersonic-boundary-layer stability subject to perturbation of flow parameters. Physics of Fluids, 33: 084111. 
+7.  Chen, Y., Ma, T., Guo, P.*, Hao, J. & Wen, C. Y. (2024) Optimal disturbances and growth patterns in hypersonic blunt-wedge flow, Chinese Journal of Aeronautics, 38(7): 103461. (Featured article)
+8.  Guo, P., Gao, Z., Zhang, Z., Jiang, C., & Lee, C. H. (2019) Local-variable-based model for hypersonic boundary layer transition. AIAA Journal, 57(6): 2372–2383.
+9.  Hao, J., Cao, S., Guo, P., & Wen, C-Y. (2023) Response of hypersonic compression corner flow to upstream disturbances. Journal of Fluid Mechanics, 964: A25.
+10. Cao, S., Hao, J., & Guo, P. (2024) Transition to turbulence in hypersonic flow over a compression ramp due to upstream forcing. Journal of Fluid Mechanics, 999: A37.
+11. Cao, S., Hao, J., Guo, P., Wen, C-Y., & Klioutchnikov I. (2023) Stability of hypersonic flow over a curved compression ramp. Journal of Fluid Mechanics, 957: A8.
+12. Chen, Y., Guo, P.*, & Wen, C. Y. (2023) Consistent energy-based framework of amplification mechanisms for the second mode in hypersonic boundary layers. Physics of Fluids, 35(12): 124107.
+13. Guo, P., Shi, F., Gao, Z., Jiang, C., Lee, C. H., & Wen, C. Y. (2022) Sensitivity analysis on supersonic-boundary-layer stability: Parametric influence, optimization, and inverse design. Physics of Fluids, 34(10): 104113.
+14. Guo, P., Liu, X., Zhao, R., Hao, J., & Wen, C. Y. (2023) Effect of acoustic metasurface on hypersonic-boundary-layer wave packet. Physics of Fluids, 35(9): 094110.
+15. Guo, P., Gao, Z., Jiang, C., Lee, C. H. (2020) Linear stability analysis on the most unstable frequencies of supersonic flat-plate boundary layers. Computers & Fluids, 197: 104394.
+16. Guo, P., Gao, Z., Wu, Z., Liu, H., Jiang, C., & Lee, C. H. (2019) Investigations on the accurate prediction of supersonic shear layers for detached eddy simulation. Aerospace Science and Technology, 89: 46–57.
 17. Huang C., Cao S., Hao J., Guo P., & Wen, C. Y. (2025) Laminar-turbulent transition in a hypersonic compression ramp flow. Physics of Fluids, 37: 034110.
-18.	Shi F., Guo, P., Liu, H., & Wang, T. (2024) Effect of vibrational excitation on vorticity amplification and transportation in shock/isotropic turbulence interaction: a numerical investigation. Physics of Fluids, 36: 085140.
-19.	Long, T., Guo, P., Zhao, R., Wen, C. Y., & Ji, F. (2023) Energy growth of vortical, acoustic, and entropic components of the second-mode instability in the hypersonic boundary layer. Physics of Fluids, 35(5): 054104.
-20.	Liu, X., Ma, D., Yang, M., Xia, X., & Guo, P. (2021) Modified block A* planning method for hybrid-driven underwater gliders. IEEE Journal of Oceanic Engineering, 47(1): 20–31.
+18. Shi F., Guo, P., Liu, H., & Wang, T. (2024) Effect of vibrational excitation on vorticity amplification and transportation in shock/isotropic turbulence interaction: a numerical investigation. Physics of Fluids, 36: 085140.
+19. Long, T., Guo, P., Zhao, R., Wen, C. Y., & Ji, F. (2023) Energy growth of vortical, acoustic, and entropic components of the second-mode instability in the hypersonic boundary layer. Physics of Fluids, 35(5): 054104.
+20. Liu, X., Ma, D., Yang, M., Xia, X., & Guo, P. (2021) Modified block A* planning method for hybrid-driven underwater gliders. IEEE Journal of Oceanic Engineering, 47(1): 20–31.
 
 arXiv Preprint Communications or other works
 ======
