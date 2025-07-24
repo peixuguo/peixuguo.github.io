@@ -13,7 +13,7 @@ Dr. Peixu Guo obtained BEng and PhD degrees from Beihang University in China, gr
 
 Dr. Guo has been devoted to theoretical and computational studies on linear instability and nonlinear breakdown mechanisms of wall-bounded flows. He has also made contributions to the transition control, transition modelling and adjoint-based sensitivity analysis of hypersonic flows. Three of his recent representative contributions are: 1) to clarify the physical mechanism of transition reversal with an agreement between DNS and experiment, 2) to report a new breakdown scenario contributed by nonlinear interactions between first and second modes, and 3) to establish a unified theory for energy growth of boundary layer instabilities. 
 
-His publications include over 20 journal papers in J. Fluid Mech., Phys. Fluids, AIAA J., Chin. J. Aeronaut., etc. He also serves as project PI of several internal projects, co-PI collaborating with the Academy of Aerospace Propulsion Technology, co-I of GRF projects, supervisor/co-supervisor of several PhD students/postdoctoral fellows, session chair of several international conferences such as the International Symposia on Shock Waves, and Proceedings of the 10th World Congress on Momentum, Heat and Mass Transfer, and reviewer for J. Fluid Mech., etc. With regard to student supervision, several journal papers have been published on the top-tier journals including J. Fluid Mech., where the PhD student is the first author and Dr. Guo is the second and corresponding author. Dr. Guo is searching for academic collaboration with young scientists and students.
+His publications include over 20 journal papers in J. Fluid Mech., Phys. Fluids, AIAA J., Chin. J. Aeronaut., etc., two of which are selected as homepage/featured articles. He also serves as project PI of several internal projects, co-PI collaborating with the Academy of Aerospace Propulsion Technology, co-I of GRF projects, supervisor/co-supervisor of several PhD students/postdoctoral fellows, session chair of several international conferences such as the International Symposia on Shock Waves, and Proceedings of the 10th World Congress on Momentum, Heat and Mass Transfer, and reviewer for J. Fluid Mech., etc. With regard to student supervision, several journal papers have been published on the top-tier journals including J. Fluid Mech., where the PhD student is the first author and Dr. Guo is the second and corresponding author. Dr. Guo is searching for academic collaboration with young scientists and students.
 
 Recruitment
 ======
@@ -59,7 +59,7 @@ Selected Publications
 
 arXiv Preprint Communications or other works
 ======
-1. Chen, Y., Guo, P.*, & Wen, C. Y. Role of acoustic metasurface in the nonlinear mode-mode interaction and breakdown of hypersonic boundary layer. Under review by JFM (arXiv identifier: 2503.18369)
+1. Chen, Y., Guo, P.*, & Wen, C. Y. Role of acoustic metasurface in the nonlinear mode-mode interaction and breakdown of hypersonic boundary layer. Under major revision by JFM (arXiv identifier: 2503.18369)
 2. Guo, P., Hao, J., & Wen, C. Y. Transition reversal over a blunt plate at Mach 5. (arXiv identifier: 2407.21629, accepted by JFM)
 3. Guo, P., Hao, J., & Wen, C. Y. Understanding the instability-wave selectivity of hypersonic compression ramp laminar flow. (arXiv identifier: 2404.11400, accepted by AIAAJ)
 4. Huang, C., Guo, P.*, Cao, S., & Wen, C. Y. On the significance of absolute and convective instabilities in transitional hypersonic compression ramp flows. Under review by JFM.
