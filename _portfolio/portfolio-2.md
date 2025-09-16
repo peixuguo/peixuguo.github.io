@@ -1,6 +1,6 @@
 ---
 title: "Stability analysis over compression corner"
-excerpt: "Shear-layer mode and Mack mode in shock wave/boundary layer interaction<br/><img src='/images/fig 2.gif'>"
+excerpt: "Shear-layer mode and Mack mode in shock wave/boundary layer interaction<br/><img src='/images/fig 2.gif' width='300'>"
 collection: portfolio
 ---
 
