@@ -1,6 +1,6 @@
 ---
 title: "Instabilities over a blunt wedge"
-excerpt: "Competing stability waves over a blunt wedge<br/><img src='/images/fig 5.gif'>"
+excerpt: "Competing stability waves over a blunt wedge<br/><img src='/images/fig 5.gif' width='30'>"
 collection: portfolio
 ---
 
