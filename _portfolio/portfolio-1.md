@@ -1,6 +1,6 @@
 ---
 title: "Transition reversal"
-excerpt: "Transition to turbulence over a blunt plate via direct numerical simulation<br/><img src='/images/500x300.png'>"
+excerpt: "Transition to turbulence over a blunt plate via direct numerical simulation<br/><img src='/images/fig 1.png'>"
 collection: portfolio
 ---
 
