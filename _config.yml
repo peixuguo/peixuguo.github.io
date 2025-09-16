@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Hong Kong SAR"
-title                    : "Peixu Guo / Research Assistant Professor"
+title                    : "Peixu Guo / Research Assistant Professor (PI)"
 title_separator          : "-"
 name                     : &name "Peixu Guo"
 description              : &description "personal description"
@@ -23,6 +23,7 @@ author:
   # Biographic information
   avatar           : "photo-b.jpg"
   name             : "Peixu Guo"
+  bio              : "To explore unknowns."
   location         : "Hong Kong SAR"
   employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
