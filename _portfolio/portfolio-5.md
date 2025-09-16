@@ -1,7 +1,7 @@
 ---
-title: "Oblique breakdown"
-excerpt: "Direct numerical simulation of transition induced by oblique waves<br/><img src='/images/fig 5.png'>"
+title: "Instabilities over a blunt wedge"
+excerpt: "Competing stability waves over a blunt wedge<br/><img src='/images/fig 5.gif'>"
 collection: portfolio
 ---
 
-https://pubs.aip.org/aip/pof/article-abstract/34/10/104116/2847392/Heat-transfer-and-behavior-of-the-Reynolds-stress?redirectedFrom=fulltext
+https://www.sciencedirect.com/science/article/pii/S1000936125000676
