@@ -1,6 +1,6 @@
 ---
 title: "Oblique breakdown"
-excerpt: "Direct numerical simulation of transition induced by oblique waves<br/><img src='/images/fig 4.png'>"
+excerpt: "Direct numerical simulation of transition induced by oblique waves<br/><img src='/images/fig 4.gif'>"
 collection: portfolio
 ---
 
