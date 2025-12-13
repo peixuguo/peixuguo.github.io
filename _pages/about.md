@@ -36,7 +36,7 @@ Teaching
 
 Selected Publications
 ======
-1.  Guo, P.* (2026) Transition reversal over a blunt plate at Mach 5. Part II. The role of freestream-disturbance form. Journal of Fluid Mechanics, in press.
+1.  Guo, P.* (2026) Transition reversal over a blunt plate at Mach 5. Part 2. The role of free-stream-disturbance form. Journal of Fluid Mechanics, in press.
 2.  Guo, P., Hao, J., & Wen, C. Y. (2025) Transition reversal over a blunt plate at Mach 5. Journal of Fluid Mechanics, 1005: A5.
 3.	Guo, P., Hao, J., & Wen, C. Y. (2023) Interaction and breakdown induced by multiple optimal disturbances in hypersonic boundary layer. Journal of Fluid Mechanics, 974: A50.
 4.	Chen, Y., Guo, P.*, & Wen, C. Y. (2026) Role of acoustic metasurface in the nonlinear mode-mode interaction and breakdown of hypersonic boundary layer. Journal of Fluid Mechanics, in press.
