@@ -36,7 +36,7 @@ Teaching
 
 Selected Publications
 ======
-1.  Guo, P.* (2026) Transition reversal over a blunt plate at Mach 5. Part 2. The role of free-stream-disturbance form. Journal of Fluid Mechanics, in press.
+1.  Guo, P.* (2025) Transition reversal over a blunt plate at Mach 5. Part 2. The role of free-stream-disturbance form. Journal of Fluid Mechanics, 1025: A54.
 2.  Guo, P., Hao, J., & Wen, C. Y. (2025) Transition reversal over a blunt plate at Mach 5. Journal of Fluid Mechanics, 1005: A5.
 3.	Guo, P., Hao, J., & Wen, C. Y. (2023) Interaction and breakdown induced by multiple optimal disturbances in hypersonic boundary layer. Journal of Fluid Mechanics, 974: A50.
 4.	Chen, Y., Guo, P.*, & Wen, C. Y. (2026) Role of acoustic metasurface in the nonlinear mode-mode interaction and breakdown of hypersonic boundary layer. Journal of Fluid Mechanics, in press.
@@ -67,5 +67,5 @@ arXiv Preprint Communications or other works
 2. Guo, P., Hao, J., & Wen, C. Y. Transition reversal over a blunt plate at Mach 5. (arXiv identifier: 2407.21629, accepted by JFM)
 3. Guo, P., Hao, J., & Wen, C. Y. Understanding the instability-wave selectivity of hypersonic compression ramp laminar flow. (arXiv identifier: 2404.11400, accepted by AIAAJ)
 4. Huang, C., Guo, P.*, Cao, S., & Wen, C. Y. On the significance of absolute and convective instabilities in transitional hypersonic compression ramp flows. Under review by JFM.
-5. Xu, B., Sun, C., & Guo, P.* A Central Differential Flux with High-Order Dissipation for Robust Simulations of Transcritical Flows. (arXiv identifier: 2508.21599, under 1st round major revision by Journal of Computational Physics)
+5. Xu, B., Sun, C., & Guo, P.* A Central Differential Flux with High-Order Dissipation for Robust Simulations of Transcritical Flows. (arXiv identifier: 2508.21599, under minor revision by Journal of Computational Physics)
 
