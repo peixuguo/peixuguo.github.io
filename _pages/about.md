@@ -45,7 +45,7 @@ Selected Publications
 7.  Guo, P., Shi, F., Gao, Z., Jiang, C., Lee, C. H., & Wen, C. Y. (2022) Heat transfer and behavior of the Reynolds stress in Mach 6 boundary layer transition induced by first-mode oblique waves. Physics of Fluids, 34(10): 104116. (Editor’s pick)
 8.  Guo, P., Gao, Z., Jiang, C., & Lee, C. H. (2021) Sensitivity analysis on supersonic-boundary-layer stability subject to perturbation of flow parameters. Physics of Fluids, 33: 084111. 
 9.  Chen, Y., Ma, T., Guo, P.*, Hao, J. & Wen, C. Y. (2024) Optimal disturbances and growth patterns in hypersonic blunt-wedge flow, Chinese Journal of Aeronautics, 38(7): 103461. (Featured article)
-10.  Huang, Q., Sun, C., & Guo, P.* (2026) Effect of angle of attack on the instability-wave selectivity in hypersonic compression ramp laminar flow. Physics of Fluids, in press.
+10.  Huang, Q., Sun, C., & Guo, P.* (2026) Effect of angle of attack on the instability-wave selectivity in hypersonic compression ramp laminar flow. Physics of Fluids, 37(12): 124126.
 11.  Guo, P., Gao, Z., Zhang, Z., Jiang, C., & Lee, C. H. (2019) Local-variable-based model for hypersonic boundary layer transition. AIAA Journal, 57(6): 2372–2383.
 12.  Hao, J., Cao, S., Guo, P., & Wen, C-Y. (2023) Response of hypersonic compression corner flow to upstream disturbances. Journal of Fluid Mechanics, 964: A25.
 13. Cao, S., Hao, J., & Guo, P. (2024) Transition to turbulence in hypersonic flow over a compression ramp due to upstream forcing. Journal of Fluid Mechanics, 999: A37.
@@ -63,7 +63,7 @@ Selected Publications
 
 arXiv Preprint Communications or other works
 ======
-1. Chen, Y., Guo, P.*, & Wen, C. Y. Role of acoustic metasurface in the nonlinear mode-mode interaction and breakdown of hypersonic boundary layer. Under major revision by JFM (arXiv identifier: 2503.18369, accepted by JFM)
+1. Chen, Y., Guo, P.*, & Wen, C. Y. Role of acoustic metasurface in the nonlinear mode-mode interaction and breakdown of hypersonic boundary layer. (arXiv identifier: 2503.18369, accepted by JFM)
 2. Guo, P., Hao, J., & Wen, C. Y. Transition reversal over a blunt plate at Mach 5. (arXiv identifier: 2407.21629, accepted by JFM)
 3. Guo, P., Hao, J., & Wen, C. Y. Understanding the instability-wave selectivity of hypersonic compression ramp laminar flow. (arXiv identifier: 2404.11400, accepted by AIAAJ)
 4. Huang, C., Guo, P.*, Cao, S., & Wen, C. Y. On the significance of absolute and convective instabilities in transitional hypersonic compression ramp flows. Under review by JFM.
