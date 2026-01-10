@@ -41,7 +41,7 @@ Selected Publications
 3.	Guo, P., Hao, J., & Wen, C. Y. (2023) Interaction and breakdown induced by multiple optimal disturbances in hypersonic boundary layer. Journal of Fluid Mechanics, 974: A50.
 4.	Chen, Y., Guo, P.*, & Wen, C. Y. (2026) Role of acoustic metasurface in the nonlinear mode-mode interaction and breakdown of hypersonic boundary layer. Journal of Fluid Mechanics, 1026: A27.
 5.	Chen, Y., Guo, P.*, & Wen, C. Y. (2023) A unified explanation of energy growth sources for unstable modes in flat-plate boundary layers. Journal of Fluid Mechanics, 972: A5.
-6.  Xu, B., Sun, C., & Guo, P.* (2026) A Central differential flux with high-order dissipation for robust simulations of transcritical flows. Journal of Computational Physics, in press.
+6.  Xu, B., Sun, C., & Guo, P.* (2026) A Central differential flux with high-order dissipation for robust simulations of transcritical flows. Journal of Computational Physics, 550: 114653.
 7.	Guo, P., Hao, J., & Wen, C. Y. (2025) Understanding the instability-wave selectivity of hypersonic compression ramp laminar flow. AIAA Journal, 63(7): 2580–2593.
 8.  Guo, P., Shi, F., Gao, Z., Jiang, C., Lee, C. H., & Wen, C. Y. (2022) Heat transfer and behavior of the Reynolds stress in Mach 6 boundary layer transition induced by first-mode oblique waves. Physics of Fluids, 34(10): 104116. (Editor’s pick)
 9.  Guo, P., Gao, Z., Jiang, C., & Lee, C. H. (2021) Sensitivity analysis on supersonic-boundary-layer stability subject to perturbation of flow parameters. Physics of Fluids, 33: 084111. 
