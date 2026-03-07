@@ -56,11 +56,12 @@ Selected Publications
 18. Guo, P., Liu, X., Zhao, R., Hao, J., & Wen, C. Y. (2023) Effect of acoustic metasurface on hypersonic-boundary-layer wave packet. Physics of Fluids, 35(9): 094110.
 19. Guo, P., Gao, Z., Jiang, C., Lee, C. H. (2020) Linear stability analysis on the most unstable frequencies of supersonic flat-plate boundary layers. Computers & Fluids, 197: 104394.
 20. Guo, P., Gao, Z., Wu, Z., Liu, H., Jiang, C., & Lee, C. H. (2019) Investigations on the accurate prediction of supersonic shear layers for detached eddy simulation. Aerospace Science and Technology, 89: 46–57.
-21. Huang C., Cao S., Hao J., Guo P., & Wen, C. Y. (2025) Laminar-turbulent transition in a hypersonic compression ramp flow. Physics of Fluids, 37: 034110.
-22. Shi F., Guo, P., Liu, H., & Wang, T. (2024) Effect of vibrational excitation on vorticity amplification and transportation in shock/isotropic turbulence interaction: a numerical investigation. Physics of Fluids, 36: 085140.
-23. Long, T., Guo, P., Zhao, R., Wen, C. Y., & Ji, F. (2023) Energy growth of vortical, acoustic, and entropic components of the second-mode instability in the hypersonic boundary layer. Physics of Fluids, 35(5): 054104.
-24. Liu, X., Ma, D., Yang, M., Xia, X., & Guo, P. (2021) Modified block A* planning method for hybrid-driven underwater gliders. IEEE Journal of Oceanic Engineering, 47(1): 20–31.
-25. Shen, P., Niu, J., Guo, P., & Gu, S. (2026) A Modular Method of Characteristics Framework for Controllable-Length Hypersonic Nozzle Design. Advances in Aerodynamics, accepted.
+21. Zhao, G., Wang, C. C., Li, X., Liu, X., Chen, Z., Uy, C. K., Hao, J., Guo, P., Zhang, Z., & Wen, C. Y. (2026) Convective instabilities in hypersonic compression ramp flows. AIAA Journal, accepted.
+22. Huang C., Cao S., Hao J., Guo P., & Wen, C. Y. (2025) Laminar-turbulent transition in a hypersonic compression ramp flow. Physics of Fluids, 37: 034110.
+23. Shi F., Guo, P., Liu, H., & Wang, T. (2024) Effect of vibrational excitation on vorticity amplification and transportation in shock/isotropic turbulence interaction: a numerical investigation. Physics of Fluids, 36: 085140.
+24. Long, T., Guo, P., Zhao, R., Wen, C. Y., & Ji, F. (2023) Energy growth of vortical, acoustic, and entropic components of the second-mode instability in the hypersonic boundary layer. Physics of Fluids, 35(5): 054104.
+25. Liu, X., Ma, D., Yang, M., Xia, X., & Guo, P. (2021) Modified block A* planning method for hybrid-driven underwater gliders. IEEE Journal of Oceanic Engineering, 47(1): 20–31.
+26. Shen, P., Niu, J., Guo, P., & Gu, S. (2026) A Modular Method of Characteristics Framework for Controllable-Length Hypersonic Nozzle Design. Advances in Aerodynamics, accepted.
 
 arXiv Preprint Communications or other works
 ======
