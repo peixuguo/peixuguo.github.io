@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-Dr. Peixu Guo obtained BEng and PhD degrees from Beihang University in China, graduating with honors such as National Scholarship and Outstanding Graduates Award. He joined Department of Aeronautical and Aviation Engineering (AAE), The Hong Kong Polytechnic University as a Postdoctoral Fellow in 2022. He worked as a Research Assistant Professor (PI) starting from 2024. His main research areas include stability and laminar-turbulent transition of high-speed flows. 
+Dr. Peixu Guo obtained BEng and PhD degrees from Beihang University in China, graduating with honors such as National Scholarship and Outstanding Graduates Award. He joined Department of Aeronautical and Aviation Engineering (AAE), The Hong Kong Polytechnic University as a Postdoctoral Fellow in 2022. He worked as a Research Assistant Professor (PI) starting from 2024. He will join School of Astronautics, Beihang University as an associate professor in 2026. His main research areas include stability and laminar-turbulent transition of high-speed flows. 
 
 Dr. Guo has been devoted to theoretical and computational studies on linear instability and nonlinear breakdown mechanisms of wall-bounded flows. He has also made contributions to the transition control, transition modelling and adjoint-based sensitivity analysis of hypersonic flows. Three of his recent representative contributions are: 1) to clarify the physical mechanism of transition reversal with an agreement between DNS and experiment, 2) to report a new breakdown scenario contributed by nonlinear interactions between first and second modes, and 3) to establish a unified theory for energy growth of boundary layer instabilities. 
 
@@ -70,4 +70,5 @@ arXiv Preprint Communications or other works
 3. Guo, P., Hao, J., & Wen, C. Y. Understanding the instability-wave selectivity of hypersonic compression ramp laminar flow. (arXiv identifier: 2404.11400, accepted by AIAAJ)
 4. Huang, C., Guo, P.*, Cao, S., & Wen, C. Y. On the significance of absolute and convective instabilities in transitional hypersonic compression ramp flows. Under review by JFM.
 5. Xu, B., Sun, C., & Guo, P.* A Central Differential Flux with High-Order Dissipation for Robust Simulations of Transcritical Flows. (arXiv identifier: 2508.21599, accepted by Journal of Computational Physics)
+6. Li, X. B., Chen, Y., Wen, C. Y. & Guo, P.* Nonlinear dynamics involving multiple modes in high-speed transitional boundary layer. (Under review by Journal of Fluid Mechanics, arXiv: 2603.16079)
 
