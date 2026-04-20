@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Hong Kong SAR"
-title                    : "Peixu Guo / Research Assistant Professor (PI)"
+title                    : "Peixu Guo / Incoming Associate Professor"
 title_separator          : "-"
 name                     : &name "Peixu Guo"
 description              : &description "personal description"
@@ -24,10 +24,10 @@ author:
   avatar           : "photo-b.jpg"
   name             : "Peixu Guo"
   bio              : "To explore unknowns."
-  location         : "Hong Kong SAR"
-  employer         : "The Hong Kong Polytechnic University"
+  location         : "Beijing, China"
+  employer         : "Beihang University"
   uri              : # URL
-  email            : "peixu.guo@polyu.edu.hk; peixu.guo@outlook.com" 
+  email            : "peixu.guo@outlook.com" 
 
   # Academic websites
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6952-023X"
