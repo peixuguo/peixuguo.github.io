@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Hong Kong SAR"
-title                    : "Peixu Guo / Incoming Associate Professor"
+title                    : "Peixu Guo / Associate Professor"
 title_separator          : "-"
 name                     : &name "Peixu Guo"
 description              : &description "personal description"
