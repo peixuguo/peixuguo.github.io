@@ -15,9 +15,6 @@ Dr. Guo has been devoted to theoretical and computational studies on linear inst
 
 His publications include over 20 journal papers in J. Fluid Mech., J. Comput. Phys., Phys. Fluids, AIAA J., Chin. J. Aeronaut., etc., two of which are selected as homepage/featured articles. He also serves as project PI of several internal projects, co-PI collaborating with the Academy of Aerospace Propulsion Technology, co-I of GRF projects, supervisor/co-supervisor of several PhD students/postdoctoral fellows, session chair of several international conferences such as the International Symposia on Shock Waves, and Proceedings of the 10th World Congress on Momentum, Heat and Mass Transfer, and reviewer for J. Fluid Mech., etc. With regard to student supervision, several journal papers have been published on the top-tier journals including J. Fluid Mech., where the PhD student is the first author and Dr. Guo is the second and corresponding author. Dr. Guo is searching for academic collaboration with young scientists and students.
 
-Recruitment
-======
-Dr. Guo is currently looking for research assistants and PhD students to work on stability and transition, high-speed aerodynamics, direct numerical simulation, etc. Please send CV to peixu.guo@polyu.edu.hk.
 
 Research Interest
 ======
